@@ -15,3 +15,21 @@ Da ein Container alle Abhängigkeiten einer Anwendung umfasst, kann er leicht vo
 
 #### Effizienz: 
 Container nutzen die Betriebssystemebene für die Virtualisierung und sind daher effizienter als traditionelle virtuelle Maschinen, die einen vollständigen Gastbetriebssystemkern ausführen. Container starten schneller und benötigen weniger Ressourcen.
+
+
+## Docker 
+
+### Was ist Docker 
+Docker ist eine beliebte Open-Source-Plattform und ein Tool, das die Entwicklung, Bereitstellung und Ausführung von Anwendungen in Containern vereinfacht. Es ermöglicht Entwicklern und Systemadministratoren, Anwendungen samt ihren Abhängigkeiten in Container zu verpacken, um Konsistenz, Effizienz und Portabilität über verschiedene Umgebungen hinweg zu gewährleisten.
+
+#### Docker-Images: 
+Ein Docker-Image ist eine unveränderliche Datei, die eine Momentaufnahme einer Anwendung und ihrer Umgebung darstellt. Jedes Image enthält alles, was notwendig ist, um eine Anwendung auszuführen, einschließlich des Codes, der Laufzeitumgebung, Bibliotheken, Umgebungsvariablen und Konfigurationsdateien.
+
+#### Docker-Container: 
+Ein Container ist eine laufende Instanz eines Docker-Images. Container sind isoliert von anderen Containern und dem Host-System, teilen sich jedoch den Kernel des Host-Betriebssystems und, wo angebracht, auch die Binärdateien und Bibliotheken. Dies macht sie leichter und schneller als traditionelle virtuelle Maschinen.
+
+#### Dockerfile:
+Ein Dockerfile ist eine Textdatei, die die Schritte zum Erstellen eines Docker-Images beschreibt. Es enthält Anweisungen für das Basis-Image, das hinzugefügt werden soll, die auszuführenden Befehle, die zu kopierenden Dateien und Ordner, und andere Konfigurationseinstellungen.
+
+#### Docker Hub und Docker Registry: 
+Docker Hub ist eine Cloud-basierte Registry, die es ermöglicht, Docker-Images zu speichern, zu teilen und zu verwalten. Es dient als zentralisierte Ressource für das Finden und Herunterladen von bestehenden Docker-Images. Private und unternehmensinterne Registries ermöglichen die sichere Speicherung und Verwaltung eigener Images.
