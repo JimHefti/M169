@@ -43,5 +43,13 @@ Die Docker Ps und Docker Images befhele habe ebenfall gemacht. Mit den Docker Ps
 Aktive Container anzeigen:
 ```
 docker ps
+```
+Aktive und beendete Container anzeigen (all):
+```
+docker ps -a
+```
 
+Nur IDs ausgeben (all, quit):
+```
+docker ps -a -q
 ```
