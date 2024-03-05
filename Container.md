@@ -33,3 +33,15 @@ Ein Dockerfile ist eine Textdatei, die die Schritte zum Erstellen eines Docker-I
 
 #### Docker Hub und Docker Registry: 
 Docker Hub ist eine Cloud-basierte Registry, die es ermöglicht, Docker-Images zu speichern, zu teilen und zu verwalten. Es dient als zentralisierte Ressource für das Finden und Herunterladen von bestehenden Docker-Images. Private und unternehmensinterne Registries ermöglichen die sichere Speicherung und Verwaltung eigener Images.
+
+## Auftrag 
+Ich habe den Docker auf meinem Windows Rechner Installiert und konnte die Standard Tests erfolgreich abschliessen.
+Die Docker Ps und Docker Images befhele habe ebenfall gemacht. Mit den Docker Ps befhelen kriegt man ein überblick über die aktuellen Container, wie z.B. Namen, IDs und Status.
+
+### Docker PS(Details) befehle
+
+Aktive Container anzeigen:
+```
+docker ps
+
+```
