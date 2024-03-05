@@ -12,3 +12,6 @@ Jeder Container läuft in einer eigenen Umgebung. Dies bedeutet, dass Anwendunge
 
 #### Portabilität(Übertragbarkeit): 
 Da ein Container alle Abhängigkeiten einer Anwendung umfasst, kann er leicht von einer Umgebung in eine andere verschoben werden. Dies ist besonders nützlich in Entwicklungs- und Deployment-Prozessen, da es die "Es funktioniert auf meinem Rechner"-Problematik eliminiert.
+
+#### Effizienz: 
+Container nutzen die Betriebssystemebene für die Virtualisierung und sind daher effizienter als traditionelle virtuelle Maschinen, die einen vollständigen Gastbetriebssystemkern ausführen. Container starten schneller und benötigen weniger Ressourcen.
