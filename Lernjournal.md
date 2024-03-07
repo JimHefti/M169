@@ -22,3 +22,20 @@ Ich habe gelernt wie man man auf github ein Repository erstellt und wie man dan 
 
 ## Reflektion
 Ich habe für das Modul mal umgestiegen auf Github und mal schauen ob ich github auch besser finde als gitlab 
+
+# Tag 3 (05.03.2024)
+## Geplant
+An den Container auftrag arbeiten
+
+Docker Istallieren 
+
+Dokumentation Github
+
+Github reposetory in die Link liste 
+
+Lernjounal schreiben 
+## Erledigt 
+
+## Gelernt
+
+## Reflektion 
