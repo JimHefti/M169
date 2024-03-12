@@ -89,3 +89,4 @@ Zwischenimages löschen (haben keinen Namen):
 ```
 docker rmi `docker images -q -f dangling=true`
 ```
+
