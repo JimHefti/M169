@@ -35,6 +35,7 @@ Github reposetory in die Link liste
 
 Lernjounal schreiben 
 ## Erledigt 
+Ich habe alles erstes in der Link liste mein Github repo verlinkt ,weil ich dies vergessen habe.
 
 ## Gelernt
 
