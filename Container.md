@@ -40,6 +40,7 @@ Die Docker Ps und Docker Images befhele habe ebenfall gemacht. Mit den Docker Ps
 
 ### Docker Standard-Test resultat
 
+![Alt text](Bilder/Standard_test_containers.PNG)
 
 ### Docker PS(Details) befehle
 
