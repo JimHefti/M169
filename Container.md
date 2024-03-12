@@ -38,6 +38,9 @@ Docker Hub ist eine Cloud-basierte Registry, die es ermöglicht, Docker-Images z
 Ich habe den Docker auf meinem Windows Rechner Installiert und konnte die Standard Tests erfolgreich abschliessen.
 Die Docker Ps und Docker Images befhele habe ebenfall gemacht. Mit den Docker Ps befhelen kriegt man ein überblick über die aktuellen Container, wie z.B. Namen, IDs und Status.
 
+### Docker Standard-Test resultat
+
+
 ### Docker PS(Details) befehle
 
 Aktive Container anzeigen:
@@ -52,4 +55,36 @@ docker ps -a
 Nur IDs ausgeben (all, quit):
 ```
 docker ps -a -q
+```
+
+## Docker image 
+
+Lokale Images ausgeben:
+```
+docker images
+```
+
+Docker Container löschen:
+```
+docker rm [name]
+```
+
+Alle beendeten Container löschen:
+```
+docker rm `docker ps -a -q`
+```
+
+Alle Container, auch aktive, löschen:
+```
+docker rm -f `docker ps -a -q`
+```
+
+Docker Image löschen:
+```
+docker rmi ubuntu
+```
+
+Zwischenimages löschen (haben keinen Namen):
+```
+docker rmi `docker images -q -f dangling=true`
 ```
