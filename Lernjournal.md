@@ -43,3 +43,19 @@ Ich habe die Software Docker angeschaut, beim Docker habe ich mir mal die ganze 
 ## Reflektion 
 
 # Tag 4 (05.03.2024)
+
+## Geplant
+
+
+
+## Erledigt 
+
+
+
+
+## Gelernt
+
+
+
+
+## Reflektion
