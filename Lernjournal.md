@@ -60,3 +60,21 @@ Docker Hub anschauen mit
 
 
 ## Reflektion
+
+
+# Tag 5 (19.03.2024)
+
+## Geplant
+Dockerfile 
+
+## Erledigt 
+
+
+
+
+## Gelernt
+
+
+
+
+## Reflektion
