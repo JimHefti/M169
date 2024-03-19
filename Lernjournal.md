@@ -41,3 +41,5 @@ Ich habe die Software Docker angeschaut, beim Docker habe ich mir mal die ganze 
 ## Gelernt
 
 ## Reflektion 
+
+# Tag 4 (05.03.2024)
