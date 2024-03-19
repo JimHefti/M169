@@ -69,6 +69,8 @@ Mit Dockerfile Nginx Webserver Container machen und mit Html text anpassen.
 Dokumentieren 
 Lernjounal schreiben 
 ## Erledigt 
+ch habe das offizielle nginx-Image von Docker Hub heruntergeladen. Dies war mein erster Schritt, um einen nginx-Webserver in einem Docker-Container zu betreiben.
+Mit dem Befehl docker run --name <Container-Name> -d -p 80:80 nginx habe ich einen Docker-Container basierend auf dem nginx-Image erstellt und gestartet. Dieser Schritt machte den nginx-Webserver über Port 80 auf meinem Host-System erreichbar.
 
 
 
