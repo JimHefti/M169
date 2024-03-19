@@ -45,7 +45,8 @@ Ich habe die Software Docker angeschaut, beim Docker habe ich mir mal die ganze 
 # Tag 4 (12.03.2024)
 
 ## Geplant
-
+Dockerfile Aufgabe 
+Docker Hub anschauen mit 
 
 
 ## Erledigt 
