@@ -13,3 +13,8 @@ docker run --name <Container-Name> -d -p 80:80 nginx
 
 
 ![nginx-webserver](../Bilder/nginx-Webserver.PNG)
+
+## Überprüfen des Webservers
+Um zu überprüfen, ob der nginx-Webserver erfolgreich gestartet wurde, öffnen Sie Ihren Webbrowser und gehen Sie zu http://localhost. Sie sollten die Standard-Willkommensseite von nginx sehen.
+
+![nginx-seite](../Bilder/nginx-seite.PNG)
