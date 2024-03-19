@@ -65,8 +65,9 @@ Docker Hub anschauen mit
 # Tag 5 (19.03.2024)
 
 ## Geplant
-Dockerfile 
-
+Mit Dockerfile Nginx Webserver Container machen und mit Html text anpassen.
+Dokumentieren 
+Lernjounal schreiben 
 ## Erledigt 
 
 
