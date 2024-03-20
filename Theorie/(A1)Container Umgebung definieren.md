@@ -1,7 +1,7 @@
 # Container Umgebung definieren
 
 ## Einleitung 
-Um in der Welt der Container-Technologien und der Verwaltung mehrerer Dienste wirklich fit zu werden, ist es wichtig, sowohl die Basics als auch die fortgeschrittenen Techniken zu beherrschen. Ich erkläre dir die wichtigsten Punkte, damit du diese Technologien effektiv in komplexen Szenarien nutzen kannst.
+Um in der Welt der Container-Technologien und der Verwaltung mehrerer Dienste wirklich fit zu werden, ist es wichtig, sowohl die Basics als auch die fortgeschrittenen Techniken zu beherrschen.
 
 ## Einführung in Container 
 Ein Container ist quasi eine Verpackung für Software, die alles enthält, was diese Software zum Laufen braucht: den Code selbst, eine Laufzeitumgebung, notwendige Systemwerkzeuge und Bibliotheken. Die Technik dahinter, die Containerisierung, ermöglicht es, mehrere solcher "Softwarepakete" isoliert voneinander auf einem einzigen Computer zu betreiben.
