@@ -28,3 +28,12 @@ Container unterstützen die Philosophie von Microservices, schnell und oft zu de
 Die Verwendung von Containern ermöglicht es, dass Microservices unabhängig voneinander entwickelt und skaliert werden können, ohne dass dies Auswirkungen auf andere Services hat.
 #### Entwicklung und Testing: 
 Container bieten eine konsistente Umgebung für die Entwicklung und das Testing von Microservices, was die "es funktioniert auf meinem Rechner" Problematik eliminiert.
+
+
+Hier ist ein Bild das die Microservice-Architektur darstellt. Sie zeigt ein Netzwerk kleiner, miteinander verbundener Services, die jeweils in ihrem eigenen Container eingeschlossen sind, und vermittelt die Konzepte von Dezentralisierung und die Synergien zwischen Microservices und Container-Technologien.
+
+
+
+
+
+
