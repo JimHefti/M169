@@ -31,3 +31,4 @@ Fehler in einem Teil des Systems verzögern oder blockieren nicht das gesamte Sy
 #### Effizientere Ressourcennutzung: 
 Da Prozesse nicht auf Antworten warten müssen, können Systemressourcen für andere Aufgaben genutzt werden.
 
+![Bild](../Bilder/sync_async_services_illustration.jpg)
