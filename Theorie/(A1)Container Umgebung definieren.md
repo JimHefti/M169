@@ -44,4 +44,4 @@ Container und ihre Orchestrierung zu beherrschen, öffnet die Tür zu effiziente
 
 
 
-![Container-Bild](..Bilder/Container.webp)
+![Container-Bild](..Bilder/container_orchestration_illustration.jpg)
