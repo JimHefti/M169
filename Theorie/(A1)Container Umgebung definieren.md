@@ -44,4 +44,11 @@ Container und ihre Orchestrierung zu beherrschen, öffnet die Tür zu effiziente
 
 
 
-![Container-Bild](..Bilder/container_orchestration_illustration.jpg)
+![Container-Bild](../Bilder/container_orchestration_illustration.jpg)
+Hier ist ein Bild das zu dem Thema passt. Es zeigt verschiedene Software-Container, die in einem komplexen, vernetzten System angeordnet sind, wobei eine Cloud die Orchestrierungswerkzeuge wie Kubernetes, Docker Swarm und OpenShift symbolisiert. Diese Darstellung bringt die Konzepte von Effizienz, Skalierbarkeit, Sicherheit und Flexibilität in einer modernen und visuell ansprechenden Art und Weise zum Ausdruck.
+
+
+
+
+
+
