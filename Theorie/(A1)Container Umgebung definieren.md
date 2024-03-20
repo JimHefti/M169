@@ -42,3 +42,4 @@ Die Orchestrierungssoftware sorgt nicht nur dafür, dass alle Teile richtig hoch
 ## Schlusswort
 Container und ihre Orchestrierung zu beherrschen, öffnet die Tür zu effizienten und flexiblen Software-Architekturen. Das Verständnis dieser Technologien und praktische Erfahrungen damit sind der Schlüssel, um in diesem Bereich Expertise zu entwickeln. Es lohnt sich, diese Techniken in realen Projekten anzuwenden, um dein Wissen zu vertiefen.
 
+![Container-Bild](..Bilder/Container.webp)
