@@ -34,19 +34,21 @@ Dokumentation Github
 Github reposetory in die Link liste 
 
 Lernjounal schreiben 
+
 ## Erledigt 
 Ich habe alles erstes in der Link liste mein Github repo verlinkt ,weil ich dies vergessen habe.
 Ich habe die Software Docker angeschaut, beim Docker habe ich mir mal die ganze Theorie gelesen. Als mit der Theorie fertig war habe den Docker heruntergeladen auf meinem Notebook. Ich habe dan den docker eingerichtet und habe die Docker Tests gemacht um zu schauen ob das ganze richtig funktioniert.
 
 ## Gelernt
+Ich habe die Grundlagen von Docker verstanden, von der Theorie bis zur Praxis. Nach dem Lesen über Docker habe ich es auf meinem Notebook installiert, eingerichtet und einige Tests durchgeführt, um sicherzustellen, dass alles richtig funktioniert.
 
 ## Reflektion 
-
+ Das Einrichten von Docker auf meinem Notebook hat super geklappt, und ich hab jetzt ein gutes Grundverständnis dafür. Es fühlt sich gut an, alles ordentlich auf GitHub zu haben, so finde ich schnell, was ich brauche.
+ 
 # Tag 4 (12.03.2024)
 
 ## Geplant
-Dockerfile Aufgabe 
-Docker Hub anschauen mit 
+
 
 
 ## Erledigt 
@@ -76,7 +78,7 @@ Ich habe über  Container Umgebungen definieren, Microservices und Synchrone&Asy
 
 
 ## Gelernt
-
+Ich habe gelernt, wie man einen Nginx-Webserver in einem Docker-Container einrichtet. Das hat mir gezeigt, wie praktisch Docker ist, um Software schnell und einfach zu starten.
 
 
 
@@ -89,11 +91,10 @@ Mein Webserver verschönern mit html
 Gedanken mach zu Projekt
 Lernjounal schreiben 
 ## Erledigt 
-Ich habe mein Nginx seite mit html über Docker gemacht. Ich habe wie eine kleine Dock Seite gemacht mit meinem Nginx Server.
+Ich habe mein Nginx seite mit html über Docker gemacht. Ich habe wie eine kleine Docker Seite gemacht mit meinem Nginx Server.
 Ich habe mir gedanken gemacht was für ein Projekt ich machen will und werde das nächste mal mit einem Mitschüller Ideen austauschen.
 Ich habe unter dem Ordner Theorie die ganze Theorie und meine recherche dazu in verschidenen file Dokumentiert.In den file geht es um 
 Ich habe mein Lernjournal geschrieben.
-
 Ich habe über  Container Umgebungen definieren, Microservices und Synchrone&Asynchrone recherchiert und unter Theorie habe meine Recherche festgehalten.
 
 
