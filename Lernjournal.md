@@ -82,7 +82,7 @@ Ich habe über  Container Umgebungen definieren, Microservices und Synchrone&Asy
 
 ## Reflektion
 
-# Tag 5 (26.03.2024)
+# Tag 6 (26.03.2024)
 
 ## Geplant
 Mein Webserver verschönern mit html
@@ -98,9 +98,11 @@ Ich habe über  Container Umgebungen definieren, Microservices und Synchrone&Asy
 
 
 ## Gelernt
-
+Docker & Nginx: Gelernt, wie man Webseiten besser und einfacher verwaltet.
+Microservices: Verstanden, dass es besser ist, große Aufgaben in kleinere Stücke zu teilen, um sie einfacher zu machen.
+Synchron & Asynchron: Gelernt, wann man Dinge nacheinander macht und wann gleichzeitig, um schneller zu sein.
 
 
 
 ## Reflektion
-
+Ich habe lach langem html angewendet. Ich hatte mal einen Programmier kurs in der Schule wo wir mit html gearbeitet haben deswegen konnte ich noch ganz wenig.
