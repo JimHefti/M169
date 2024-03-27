@@ -69,7 +69,7 @@ Mit Dockerfile Nginx Webserver Container machen und mit Html text anpassen.
 Dokumentieren 
 Lernjounal schreiben 
 ## Erledigt 
-ch habe das offizielle nginx-Image von Docker Hub heruntergeladen. Dies war mein erster Schritt, um einen nginx-Webserver in einem Docker-Container zu betreiben.
+Ich habe das offizielle nginx-Image von Docker Hub heruntergeladen. Dies war mein erster Schritt, um einen nginx-Webserver in einem Docker-Container zu betreiben.
 Mit dem Befehl docker run --name <Container-Name> -d -p 80:80 nginx habe ich einen Docker-Container basierend auf dem nginx-Image erstellt und gestartet. Dieser Schritt machte den nginx-Webserver über Port 80 auf meinem Host-System erreichbar.
 
 Ich habe über  Container Umgebungen definieren, Microservices und Synchrone&Asynchrone recherchiert und unter Theorie habe meine Recherche festgehalten.
@@ -81,3 +81,26 @@ Ich habe über  Container Umgebungen definieren, Microservices und Synchrone&Asy
 
 
 ## Reflektion
+
+# Tag 5 (26.03.2024)
+
+## Geplant
+Mein Webserver verschönern mit html
+Gedanken mach zu Projekt
+Lernjounal schreiben 
+## Erledigt 
+Ich habe mein Nginx seite mit html über Docker gemacht. Ich habe wie eine kleine Dock Seite gemacht mit meinem Nginx Server.
+Ich habe mir gedanken gemacht was für ein Projekt ich machen will und werde das nächste mal mit einem Mitschüller Ideen austauschen.
+Ich habe unter dem Ordner Theorie die ganze Theorie und meine recherche dazu in verschidenen file Dokumentiert.In den file geht es um 
+Ich habe mein Lernjournal geschrieben.
+
+Ich habe über  Container Umgebungen definieren, Microservices und Synchrone&Asynchrone recherchiert und unter Theorie habe meine Recherche festgehalten.
+
+
+## Gelernt
+
+
+
+
+## Reflektion
+
