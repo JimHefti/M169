@@ -75,7 +75,7 @@ Ich habe ein MySQL Docker Image gemacht. Um das Dockerfile Image zu machen, habe
 
 
 ## Gelernt
-
+Ich habe gelernt wie ich ein image erstelle mit dem Docker und einem Dockerfile.
 
 
 
