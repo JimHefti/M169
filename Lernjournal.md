@@ -67,12 +67,11 @@ Ich habe die Grundlagen von Docker verstanden, von der Theorie bis zur Praxis. N
 # Tag 4 (12.03.2024)
 
 ## Geplant
-
+Dockerfile machen 
 
 
 ## Erledigt 
-
-
+Ich habe ein MySQL Docker Image gemacht. Um das Dockerfile Image zu machen, habe ich einen Ordner gemacht mit der Datei Dockerfile ohne eine Endung, da habe ich dann den Code von dem MySQL-Image aus der Vorlage vom Gitlab reinkopiert und dann das Dockerfile ausgeführt.
 
 
 ## Gelernt
