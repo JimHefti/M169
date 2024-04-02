@@ -125,3 +125,18 @@ Synchron & Asynchron: Gelernt, wann man Dinge nacheinander macht und wann gleich
 
 ## Reflektion
 Ich habe lach langem html angewendet. Ich hatte mal einen Programmier kurs in der Schule wo wir mit html gearbeitet haben deswegen konnte ich noch ganz wenig.
+
+# Tag 7 (02.04.2024)
+
+## Geplant
+Projekt Planen
+Projekt umsetung 
+
+## Erledigt 
+
+
+
+## Gelernt
+
+
+## Reflektion
