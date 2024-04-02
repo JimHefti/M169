@@ -1,1 +1,12 @@
+# Projekt Planung 
 
+## Ziel der Projektarbeit 
+
+## Komponenten 
+Wir benutzen ein Nextcloud Image(https://hub.docker.com/_/nextcloud) in welchem wir einen reverse proxy, und ein Workspace aufsetzen.
+
+Netzwerkplan 
+
+
+
+-Workbook und Kalender - nextcloud 
