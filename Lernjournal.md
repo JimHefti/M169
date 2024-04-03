@@ -130,13 +130,18 @@ Ich habe lach langem html angewendet. Ich hatte mal einen Programmier kurs in de
 
 ## Geplant
 Projekt Planen
-Projekt umsetung 
+Projekt umsetzung beginnen
 
 ## Erledigt 
+Ich habe meine planung begonnen und weis jetzt was ich machen werde und zwar werde ich ein Workspace auf container machen.
+Ich habe evaluiert was für ein image ich nehmen werde und zwar werde ich nextcloud benutzen.
+Ich habe angefangen eine ubuntu maschine zu erstellen, weil ich viele ports öffnen müsste für das und das mache ich lieber auf einer VM.
+
 
 
 
 ## Gelernt
+Ich habe gelernt ein Projekt zu planen für Container.
 
 
 ## Reflektion
