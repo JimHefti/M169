@@ -37,4 +37,13 @@ nextcloud/all-in-one:latest
 ```
 Das ist das Nextcloud Image das ich verwende für meinne Workspace.
 
+## Nextcloud AIO 
+
+### Domain auf Hostdatein hinzufügen
+
+![hinzufügen](../Bilder/Host-datei_brearbeitung.PNG)
+
+Ich habe hier die Domain die ich für nextcloud verwenden werde hinzugefügt.
+#### Meine Domain(Nextcloud): www.jimheft.ch
+
 
