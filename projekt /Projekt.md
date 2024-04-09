@@ -32,6 +32,9 @@ docker run ^
 --publish 8443:8443 ^
 --volume nextcloud_aio_mastercontainer:/mnt/docker-aio-config ^
 --volume //var/run/docker.sock:/var/run/docker.sock:ro ^
+--env SKIP_DOMAIN_VALIDATION=true ^
 nextcloud/all-in-one:latest
 ```
 Das ist das Nextcloud Image das ich verwende für meinne Workspace.
+
+
