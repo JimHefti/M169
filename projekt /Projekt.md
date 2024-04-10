@@ -11,7 +11,7 @@ Wir benutzen ein Nextcloud Image(https://hub.docker.com/_/nextcloud) in welchem 
 Netzwerkplan 
 -Workbook und Kalender - nextcloud 
 
-### Warum Nextcloud
+### Evaluation Nextcloud
 | Aspekt            | Separate Container | Bewertung (Separate Container) | Nextcloud | Bewertung (Nextcloud) |
 |-------------------|--------------------|-------------------------------|-----------|-----------------------|
 | Einfachheit      | Das Einrichten und Verwalten mehrerer Container kann besonders für Anfänger komplex sein. Jeder Service erfordert seine eigene Konfiguration und Verwaltung. | 3 | Nextcloud bietet eine einzige Plattform zur Verwaltung mehrerer Komponenten. Das Hinzufügen neuer Komponenten kann relativ einfacher sein, da es in das Nextcloud-Ökosystem integriert ist. | 5 |
