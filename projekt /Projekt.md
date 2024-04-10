@@ -66,6 +66,15 @@ Meine Domain die Submitet habe ist www.jimhefti.ch
 ### Ausgewählte container 
 ![Container](../Bilder/Ausgewählte_container.PNG)
 
+#### Begründung Container auswahl
+ClamAV: Dieser Container dient als Antiviren-Backend für Nextcloud. Er scannt Dateien auf Viren, wenn sie zu Nextcloud hochgeladen werden, um die Sicherheit zu erhöhen. 
 
+Collabora (Nextcloud Office): Collabora ermöglicht das Bearbeiten und Teilen von Office-Dokumenten direkt in Nextcloud, vergleichbar mit anderen Online-Office-Lösungen. Es unterstützt gängige Dateiformate wie DOCX, XLSX und PPTX.
+
+Imaginary: Dieser Container wird für die Vorschau von verschiedenen Bild- und Dokumentenformaten wie heic, heif, Illustrator-Dateien, PDFs, SVGs, TIFFs und webp genutzt. Er wandelt diese Dateiformate um, sodass sie als Vorschauen in Nextcloud angezeigt werden können. 
+
+Nextcloud Talk: Dies ist die Chat- und Videokonferenz-Komponente von Nextcloud. Für den Betrieb benötigt Nextcloud Talk die Ports 3478/TCP und 3478/UDP, die in Ihrer Firewall oder Ihrem Router geöffnet bzw. weitergeleitet sein müssen.
+
+Docker Socket Proxy: Dieser Container dient der Sicherheit, indem er den Docker Socket schützt. Er wird benötigt, um die Nextcloud App API zu benutzen, und stellt sicher, dass Anwendungen nur die benötigten Informationen und Steuerbefehle an den Docker Daemon senden können.
 
 ![Downloade](../Bilder/Downloade_Containers.PNG)
