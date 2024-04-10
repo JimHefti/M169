@@ -48,5 +48,5 @@ Meine Domain(Nextcloud): www.jimheft.ch
 
 ### Submit Domain
 
-![Submit](../bilder/Domain_Submit.PNG)
+![Submit](../Bilder/Domain_Submit.PNG)
 
