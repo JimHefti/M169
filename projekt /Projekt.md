@@ -10,7 +10,7 @@ Wir benutzen ein Nextcloud Image(https://hub.docker.com/_/nextcloud) in welchem 
 
 Netzwerkplan 
 -Workbook und Kalender - nextcloud 
-
+Reverse proxy Apache für SSL 
 ### Evaluation Nextcloud
 | Aspekt            | Separate Container | Bewertung (Separate Container) | Nextcloud | Bewertung (Nextcloud) |
 |-------------------|--------------------|-------------------------------|-----------|-----------------------|
