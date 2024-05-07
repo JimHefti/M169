@@ -155,7 +155,7 @@ Für diesen Zweck haben wir selbstsignierte Zertifikate verwendet, die mit dem f
 
 Jetzt probieren wir auf unser Nextcloud Dashboard zu zugereifen.
 
-![Nextcloud-Containers](../Bilder/Dashborad-Nextcloud.png)
+![Dashboard](../Bilder/Dashborad-Nextcloud.png)
 
 Erfolgreich Nextcloud Funktioniert und ist online ereichbar.
 
@@ -165,6 +165,10 @@ username: admin
 
 password: 939e019cffe62e01ff235d36b4d4a8571f9d65f4963155cf
 
+Zum Abschluss noch die Notizen und Kalender.
+
+![Kalender](../Bilder/Kalender.png)
+![Notizen](../Bilder/Notizen.png)
 
 
 
