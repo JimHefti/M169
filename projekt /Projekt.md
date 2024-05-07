@@ -7,10 +7,12 @@ Das Ziel der Projektarbeit ist es ein Workspace zu erstellen mit Workbook und Ka
 
 ### Komponenten 
 Wir benutzen ein Nextcloud Image(https://hub.docker.com/_/nextcloud) in welchem wir einen reverse proxy, und ein Workspace aufsetzen.
+Für jeden Service einen verschiedenen Container (Reverse Proxy nginx, Webserserver 1&2 httpd)
+Nextcloud als zentrale lösung in welcher einzelne komponenten als container hinzugefügt werden können.
 
 Netzwerkplan 
 -Workbook und Kalender - nextcloud 
-Reverse proxy Apache für SSL 
+
 ### Evaluation Nextcloud
 | Aspekt            | Separate Container | Bewertung (Separate Container) | Nextcloud | Bewertung (Nextcloud) |
 |-------------------|--------------------|-------------------------------|-----------|-----------------------|
@@ -95,6 +97,7 @@ Nachdem der Server gestartet ist, konnte ich mich mit ssh root@116.203.41.190 ve
 
 Dann musste ich nur noch Docker mit dem Skript installieren.
 Dann musste Ich Valentin nur noch darum beten einen A record DNS eintrag von meiner IP auf seine Domaine(static.190.41.203.116.clients.your-server.d) zu erstellen.
+Anfang an habe ich hier ein Verzeichniss erstellt indem verschiedenste Files gespeichert werden namens: Projekt_169.
 ### Docker Composefile 
 ```
 version: "3.3"
