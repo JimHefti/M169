@@ -131,6 +131,28 @@ volumes:
 
 Mit Sudo docker compose up -d ladet es die installation und ich konnte mit der IP=https://116.203.41.190:8080 auf nextcloud gehen.
 Ich habe dan das ganze eingerichtet mit neuen Domain, Zeitzone und mit verschiedenen Services, jetzt geht es weiter mit der konfiguraiton von Nextcloud.
+![Nextcloud-Containers](../Bilder/Bilder/Container_nextcloud.PNG)
+
+Nächste Schritte:
+Nginx-conf file erstellen.
+Zertifikat für den Reverse proxy erstellen.
+Endgültiger Test
+
+### Nginx Config File 
+
+Die Konfigurationsdatei von Nginx dient dazu, Anfragen an einen spezifischen Port weiterzuleiten und definiert die Speicherorte für den öffentlichen und privaten Schlüssel.
+![Nextcloud-Containers](../Bilder/Bilder/Nginx-Configfile.PNG)
+
+### Zertifik
+```
+sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout ./apache-selfsigned.key -out ./apache-selfsigned.crt
+```
+Für diesen Zweck haben wir selbstsignierte Zertifikate verwendet, die mit dem folgenden Befehl erstellt wurden. Es ist wichtig sicherzustellen, dass wir uns im korrekten Verzeichnis befinden (in meinem Fall /Projekt_M169/letsencrypt), um die Konsistenz der Verzeichnispfade in der Docker-compose- und Nginx-Konfigurationsdatei zu gewährleisten.
+
+
+
+
+
 
 
 
