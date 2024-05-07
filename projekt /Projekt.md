@@ -86,3 +86,45 @@ Nachdem der Server gestartet ist, konnte ich mich mit ssh root@116.203.41.190 ve
 
 Dann musste ich nur noch Docker mit dem Skript installieren.
 Dann musste Ich Valentin nur noch darum beten einen A record DNS eintrag von meiner IP auf seine Domaine(static.190.41.203.116.clients.your-server.d) zu erstellen.
+
+# Neu mit Server 
+Ich habe auf meinem Localhost keine SSL certificate bekommen deswegen konnte ich nicht auf Nextcloud zugreifen.
+Da dies ein Problem ist welches nicht einfach mal so behoben werden kann, habe ich mich nach Beratung mit Valentin Binotto dazu entschieden dieses Setup auf einem Ubuntu Server von Hetzner Cloud aufsetzen.
+Beim erwerb des Servers habe ich meinen SSH hinzugefügt um später eine schnelle Verbindung zu ermöglichen.
+Nachdem der Server gestartet ist, konnte ich mich mit ssh root@116.203.41.190 verbinden.
+
+Dann musste ich nur noch Docker mit dem Skript installieren.
+Dann musste Ich Valentin nur noch darum beten einen A record DNS eintrag von meiner IP auf seine Domaine(static.190.41.203.116.clients.your-server.d) zu erstellen.
+### Docker Composefile 
+``
+version: "3.3"
+services:
+  nginx:
+    image: 'nginx'
+    container_name: nginx
+    restart: always
+    volumes:
+      - ./conf:/etc/nginx/conf.d
+      - ./data:/data
+      - ./letsencrypt:/etc/certs
+    ports:
+      - '443:443'
+  nextcloud:
+    image: nextcloud/all-in-one:latest
+    restart: always
+    container_name: nextcloud-aio-mastercontainer
+    ports:
+      - '8080:8080'
+    environment:
+      - APACHE_PORT=11001
+      - APACHE_IP_BINDING=0.0.0.0
+      - SKIP_DOMAIN_VALIDATION=true
+    volumes:
+      - nextcloud_aio_mastercontainer:/mnt/docker-aio-config
+      - /var/run/docker.sock:/var/run/docker.sock:ro
+    depends_on:
+      - nginx
+volumes:
+  nextcloud_aio_mastercontainer:
+    name: nextcloud_aio_mastercontainer
+``
