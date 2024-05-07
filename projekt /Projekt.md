@@ -145,11 +145,23 @@ Die Konfigurationsdatei von Nginx dient dazu, Anfragen an einen spezifischen Por
 
 ![Nextcloud-Containers](../Bilder/Nginx-Configfile.PNG)
 
-### Zertifik
+### Zertifikat
 ```
 sudo openssl req -x509 -nodes -days 365 -newkey rsa:2048 -keyout ./apache-selfsigned.key -out ./apache-selfsigned.crt
 ```
 Für diesen Zweck haben wir selbstsignierte Zertifikate verwendet, die mit dem folgenden Befehl erstellt wurden. Es ist wichtig sicherzustellen, dass wir uns im korrekten Verzeichnis befinden (in meinem Fall /Projekt_M169/letsencrypt), um die Konsistenz der Verzeichnispfade in der Docker-compose- und Nginx-Konfigurationsdatei zu gewährleisten.
+
+### Schluss Test
+
+Jetzt probieren wir auf unser Nextcloud Dashboard zu zugereifen.
+
+![Nextcloud-Containers](../Bilder/Dashborad-Nextcloud.png)
+
+Erfolgreich Nextcloud Funktioniert und ist online ereichbar.
+Lodindaten:
+username: admin
+password: 939e019cffe62e01ff235d36b4d4a8571f9d65f4963155cf
+
 
 
 
