@@ -78,3 +78,6 @@ Nextcloud Talk: Dies ist die Chat- und Videokonferenz-Komponente von Nextcloud. 
 Docker Socket Proxy: Dieser Container dient der Sicherheit, indem er den Docker Socket schützt. Er wird benötigt, um die Nextcloud App API zu benutzen, und stellt sicher, dass Anwendungen nur die benötigten Informationen und Steuerbefehle an den Docker Daemon senden können.
 
 ![Downloade](../Bilder/Downloade_Containers.PNG)
+
+## Problem 
+Ich habe auf meinem Localhost keine SSL certificate bekommen deswegen konnte ich nicht auf Nextcloud zugreifen.
