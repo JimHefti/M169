@@ -132,7 +132,7 @@ volumes:
 Mit Sudo docker compose up -d ladet es die installation und ich konnte mit der IP=https://116.203.41.190:8080 auf nextcloud gehen.
 Ich habe dan das ganze eingerichtet mit neuen Domain, Zeitzone und mit verschiedenen Services, jetzt geht es weiter mit der konfiguraiton von Nextcloud.
 
-![Nextcloud-Containers](../Bilder/Bilder/Container_nextcloud.PNG)
+![Nextcloud-Containers](../Bilder/Container_nextcloud.PNG)
 
 Nächste Schritte:
 Nginx-conf file erstellen.
@@ -143,7 +143,7 @@ Endgültiger Test
 
 Die Konfigurationsdatei von Nginx dient dazu, Anfragen an einen spezifischen Port weiterzuleiten und definiert die Speicherorte für den öffentlichen und privaten Schlüssel.
 
-![Nextcloud-Containers](../Bilder/Bilder/Nginx-Configfile.PNG)
+![Nextcloud-Containers](../Bilder/Nginx-Configfile.PNG)
 
 ### Zertifik
 ```
