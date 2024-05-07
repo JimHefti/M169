@@ -96,7 +96,7 @@ Nachdem der Server gestartet ist, konnte ich mich mit ssh root@116.203.41.190 ve
 Dann musste ich nur noch Docker mit dem Skript installieren.
 Dann musste Ich Valentin nur noch darum beten einen A record DNS eintrag von meiner IP auf seine Domaine(static.190.41.203.116.clients.your-server.d) zu erstellen.
 ### Docker Composefile 
-``
+```
 version: "3.3"
 services:
   nginx:
@@ -127,4 +127,10 @@ services:
 volumes:
   nextcloud_aio_mastercontainer:
     name: nextcloud_aio_mastercontainer
-``
+```
+
+Mit Sudo docker compose up -d ladet es die installation und ich konnte mit der IP=https://116.203.41.190:8080 auf nextcloud gehen.
+Ich habe dan das ganze eingerichtet mit neuen Domain, Zeitzone und mit verschiedenen Services, jetzt geht es weiter mit der konfiguraiton von Nextcloud.
+
+
+
