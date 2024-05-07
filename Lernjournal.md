@@ -140,15 +140,56 @@ Projekt umsetzung beginnen
 
 ## Erledigt 
 Ich habe meine planung begonnen und weis jetzt was ich machen werde und zwar werde ich ein Workspace auf container machen.
-Ich habe evaluiert was für ein image ich nehmen werde und zwar werde ich nextcloud benutzen.
+Ich habe evalwuiert was für ein image ich nehmen werde und zwar werde ich nextcloud benutzen.
 Ich habe angefangen eine ubuntu maschine zu erstellen, weil ich viele ports öffnen müsste für das und das mache ich lieber auf einer VM.
 
 
-
-
-## Gelernt
 Ich habe gelernt ein Projekt zu planen für Container.
 Ich habe wichtige Aspekte der Projektplanung für Container-basierte Lösungen gelernt, einschließlich der Auswahl geeigneter Images und der Konfiguration einer geeigneten Infrastruktur.
 
 ## Reflektion
 Der Prozess, von der reinen Planung zur tatsächlichen Umsetzung überzugehen, war aufschlussreich und zeigte mir die Bedeutung einer gründlichen Vorbereitung. Ich habe erkannt, dass die Wahl der richtigen Technologie und Plattform kritisch für den Erfolg des Projekts ist. Das Einrichten der VM hat mir zusätzlich geholfen, die technischen Anforderungen und die damit verbundenen Herausforderungen besser zu verstehen. Ich bin motiviert, die Umsetzung fortzusetzen und zu sehen, wie die Theorie in die Praxis umgesetzt wird.
+
+# Tag 8 (09.04.2024)
+## Geplant
+Erstellen der Nginx-Config-Datei für den Reverse Proxy.
+Beginn der SSL-Zertifikat-Erstellung für die sichere Verbindung.
+Überprüfung der Container-Konfiguration und Sicherstellung der Integration.
+## Erledigt 
+Nginx-Konfigurationsdatei wurde erstellt und getestet.
+Begonnen mit dem Prozess der Erstellung eines selbstsignierten SSL-Zertifikats.
+Alle Container sind nun richtig konfiguriert und miteinander vernetzt.
+## Gelernt
+Vertiefung der Kenntnisse in Nginx-Konfiguration und SSL-Zertifizierung.
+Verständnis der Bedeutung von Sicherheitsaspekten in einer Container-basierten Umgebung.
+## Reflektion
+Die Erstellung der SSL-Zertifikate war komplexer als gedacht, was die Bedeutung guter Vorbereitung und Planung unterstreicht.
+Die Integration der verschiedenen Services hat gezeigt, wie wichtig präzise Konfiguration für die Systemstabilität ist.
+# Tag 9 (16.04.2024)
+## Geplant
+Abschluss der SSL-Zertifikat-Erstellung.
+Endgültige Tests der gesamten Infrastruktur durchführen.
+Dokumentation der Konfiguration und der Setup-Prozesse für zukünftige Referenz.
+## Erledigt 
+SSL-Zertifikat erfolgreich erstellt und implementiert.
+Umfassende Tests der Nextcloud-Installation und aller zugehörigen Dienste durchgeführt.
+Dokumentation der gesamten Einrichtung wurde begonnen.
+## Gelernt
+Detailliertes Wissen über SSL/TLS und die Implementierung in einer Docker-Umgebung erlangt.
+Erkannt, wie kritisch umfassende Tests vor dem Livegang sind.
+## Reflektion
+Die Sicherstellung der Sicherheit war eine der größten Herausforderungen und zugleich eine der lohnendsten Aufgaben.
+Das Testen hat einige kleinere Probleme aufgedeckt, die ohne die gründliche Prüfung unentdeckt geblieben wären.
+# Tag 10 (07.05.2024)
+## Geplant
+Finalisierung der Dokumentation.
+Überprüfung aller Dienste auf Aktualität und Sicherheitsupdates.
+## Erledigt
+Die Dokumentation für das Projekt ist vollständig und zur Übergabe bereit.
+Alle Dienste wurden aktualisiert und sind auf dem neuesten Stand der Sicherheitsanforderungen.
+
+## Gelernt
+Wichtigkeit regelmäßiger Updates und die Notwendigkeit einer kontinuierlichen Überwachung der IT-Sicherheit.
+Die Bedeutung klarer und strukturierter Dokumentation für den langfristigen Projekterfolg.
+## Reflektion
+Die Projektarbeit hat meine Fähigkeiten in Projektmanagement und technischer Dokumentation erheblich verbessert.
