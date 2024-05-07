@@ -148,6 +148,7 @@ Ich habe angefangen eine ubuntu maschine zu erstellen, weil ich viele ports öff
 
 ## Gelernt
 Ich habe gelernt ein Projekt zu planen für Container.
-
+Ich habe wichtige Aspekte der Projektplanung für Container-basierte Lösungen gelernt, einschließlich der Auswahl geeigneter Images und der Konfiguration einer geeigneten Infrastruktur.
 
 ## Reflektion
+Der Prozess, von der reinen Planung zur tatsächlichen Umsetzung überzugehen, war aufschlussreich und zeigte mir die Bedeutung einer gründlichen Vorbereitung. Ich habe erkannt, dass die Wahl der richtigen Technologie und Plattform kritisch für den Erfolg des Projekts ist. Das Einrichten der VM hat mir zusätzlich geholfen, die technischen Anforderungen und die damit verbundenen Herausforderungen besser zu verstehen. Ich bin motiviert, die Umsetzung fortzusetzen und zu sehen, wie die Theorie in die Praxis umgesetzt wird.
