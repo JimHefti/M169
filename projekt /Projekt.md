@@ -158,8 +158,11 @@ Jetzt probieren wir auf unser Nextcloud Dashboard zu zugereifen.
 ![Nextcloud-Containers](../Bilder/Dashborad-Nextcloud.png)
 
 Erfolgreich Nextcloud Funktioniert und ist online ereichbar.
+
 Lodindaten:
+
 username: admin
+
 password: 939e019cffe62e01ff235d36b4d4a8571f9d65f4963155cf
 
 
