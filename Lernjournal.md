@@ -26,19 +26,25 @@ Ich habe für das Modul mal umgestiegen auf Github und mal schauen ob ich github
 # Tag 2 (12.03.2023)
 
 ## Geplant 
-
+Überprüfung der aktuellen Monitoring-Tools und -Verfahren.
+Lektüre eines Fachartikels über Best Practices im IT-Service-Management.
 
 
 ## Erledigt 
-
+Überprüfte die aktuellen Monitoring-Tools; festgestellt, dass einige Updates benötigt werden.
+Fachartikel über effektive Monitoring-Strategien gelesen.
 
 
 ## Gelernt
-
+Neue Erkenntnisse über die Wichtigkeit von Echtzeitdaten im Ressourcen-Management.
+Besseres Verständnis von Grafana für das Dashboard-Design.
+Wichtigkeit der regelmäßigen Aktualisierung von Tools zur Sicherstellung der Genauigkeit.
 
 
 ## Reflektion 
 
+Die Lektüre war hilfreich, um meine Strategien zur Überwachung der IT-Infrastruktur zu überdenken und zu verbessern.
+Ich sollte regelmäßig prüfen, ob die verwendeten Tools dem neuesten Stand entsprechen und meine Kenntnisse durch weitere Fachliteratur erweitern.
 
 
 
