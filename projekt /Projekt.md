@@ -179,6 +179,12 @@ Zum Abschluss noch die Notizen und Kalender.
 ![überwachung](../Bilder/überwachung.PNG)
 
 
+### Überwachung Server 
+
+![image](https://github.com/JimHefti/M169/assets/160615771/6aecb0aa-3ea9-47cd-8446-bb6e5ee122ee)
+![image](https://github.com/JimHefti/M169/assets/160615771/fb49de2c-1e5b-4642-90fb-91494819491e)
+![image](https://github.com/JimHefti/M169/assets/160615771/2ae20fb9-330c-4c97-8362-6ac094cbda33)
+
 
 
 
